@@ -20,7 +20,7 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "dotenv": "^8.2.0",
     "minimist": "^1.2.5",
     "ora": "^3.4.0"
